@@ -5,4 +5,5 @@ Followed [GIT Tutorial](https://docs.google.com/document/d/1wjCr_nKU0KEgjXCI9AGy
 
 Completed challenge 1, which involved blinking the LED output light
 
-![Alt Text](Users/camillephares/ECE_16/ece16-assignment-flowerwallpaper/HW0/Documentation/Fig/c1_part1_a.gif)
+![Alt Text](/Users/camillephares/ECE_16/ece16-assignment-flowerwallpaper/HW0/Documentation/Fig/c1_part1_a.gif)
+
