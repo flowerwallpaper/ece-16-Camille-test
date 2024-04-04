@@ -1,3 +1,5 @@
 I'm Camille, I'm a fourth year bioinformatics major. I'm taking this class for funsies, and I wanted   
 to learn about hardware. 
-![Alt Text](https://github.com/UCSD-ECE16/ece16-assignment-flowerwallpaper/assets/103080777/72e96ebe-c2e6-4512-94dc-418e9b8769e4)
+
+
+![catjam-cat-dancing](https://github.com/UCSD-ECE16/ece16-assignment-flowerwallpaper/assets/103080777/b2455738-9f1e-4f2d-a1e9-072c82c2412d)
